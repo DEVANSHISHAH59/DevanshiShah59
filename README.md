@@ -12,4 +12,4 @@ machine learning
 
 interactive dashboards
 
-I like building things that are simple, practical, and easy to expl
+I like building things that are simple, practical, and easy to explain 
