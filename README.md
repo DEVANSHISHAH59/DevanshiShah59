@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Devanshi
 
-<!--
-**DEVANSHISHAH59/DevanshiShah59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Analyst with an AI and data background.
 
-Here are some ideas to get you started:
+I enjoy building small tools that help answer real questions using data — whether that’s understanding customer behaviour, predicting churn, or analysing risky online content.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my projects combine:
+
+data analysis
+
+machine learning
+
+interactive dashboards
+
+I like building things that are simple, practical, and easy to expl
